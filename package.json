@@ -1,0 +1,28 @@
+{
+  "name": "Fitness-club--app",
+  "version": "1.0.0",
+  "description": "App where coaches create multiples programs and send them to multiple athletes.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iKornev/Fitness-club--app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iKornev/Fitness-club--app/issues"
+  },
+  "homepage": "https://github.com/iKornev/Fitness-club--app#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.11",
+    "express": "^4.17.1"
+  }
+}
